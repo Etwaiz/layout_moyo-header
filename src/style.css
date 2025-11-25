@@ -2,10 +2,6 @@
   --blue: #00acdc;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 html {
   font-family: Roboto, Arial, sans-serif;
 }
@@ -22,6 +18,7 @@ body {
   max-width: 1200px;
   width: 100%;
   padding: 0 50px;
+  box-sizing: border-box;
 }
 
 .nav__img {
@@ -33,7 +30,6 @@ body {
 
 .nav__logo {
   display: block;
-  align-items: center;
 }
 
 .nav__header {
