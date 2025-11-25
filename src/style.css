@@ -31,7 +31,7 @@ body {
 }
 
 .nav__logo {
-  display: flex;
+  display:block;
   align-items: center;
 }
 
