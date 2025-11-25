@@ -27,6 +27,7 @@ body {
 .nav__img {
   height: 40px;
   width: 40px;
+  padding-bottom: 0;
 }
 
 .nav__logo {
